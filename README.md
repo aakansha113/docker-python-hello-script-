@@ -25,12 +25,12 @@ git clone https://github.com/aakansha113/docker-python-hello-script-
 
 ### Build a Dockerfile:
 ```
-$ docker build -t pythonimage .
+docker build -t pythonimage .
 ```
 
 ### Running a container from the newly built image
 ```
-$ docker run --name test1 pythonimage
+docker run --name test1 pythonimage
 ```
 ### The output will be:
 
