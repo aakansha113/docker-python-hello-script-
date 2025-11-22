@@ -15,6 +15,12 @@ my-python-docker-project/
 └── .dockerignore (optional)
 
 ## Steps:
+
+### 📥 Clone This Repository
+To clone this portfolio on your local system, run:
+```
+git clone https://github.com/aakansha113/docker-python-hello-script-
+```
 ### Write a Dockerfile
 
 ### Build a Dockerfile:
