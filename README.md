@@ -1,4 +1,4 @@
-# Python Docker Project
+# Simple Python(Hello Script)-Docker Project
 
 This project demonstrates running Python scripts inside a Docker container using a lightweight Alpine image.  
 
