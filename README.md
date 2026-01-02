@@ -6,14 +6,15 @@ This project demonstrates running Python scripts inside a Docker container using
 
 - `hello.py` and `h.py` — example Python scripts  
 - Dockerfile — builds a minimal Docker image with Python 3.12 
-
+##  📁 Folder Structure
+```
 my-python-docker-project/
 │
 ├── Dockerfile
 ├── hello.py
 ├── h.py
 └── .dockerignore (optional)
-
+```
 ## Steps:
 
 ### 📥 Clone This Repository
